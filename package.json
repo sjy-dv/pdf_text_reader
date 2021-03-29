@@ -1,0 +1,10 @@
+{
+    "name": "pdf_reader",
+    "version": "1.0.0",
+    "main": "app.js",
+    "dependencies": {
+        "@vitalets/google-translate-api": "^5.1.0",
+        "express": "^4.17.1",
+        "pdf-text": "^0.4.0"
+    }
+}
